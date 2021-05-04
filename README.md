@@ -5,6 +5,7 @@ abgx360 requires **libcurl** (http://curl.haxx.se/download.html) and **zlib** (h
 
 * OSX: `already included`
 * Linux (apt-get): `sudo apt-get install libcurl4-openssl-dev zlib1g-dev`
+* Void Linux (xbps-install): `sudo xbps-install libcurl-devel zlib-devel`
 
 To compile:
 ```bash
